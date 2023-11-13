@@ -1,0 +1,16 @@
+{
+  "api": {
+    "newsApi": {
+      "url": "https://newsapi.org/v2",
+      "auth": "0fb47586e27f4822b955a52794beb233"
+    },
+    "nyTimes": {
+      "url": "https://api.nytimes.com/svc/search/v2",
+      "auth": "su7yYOy9GQ9f6Pu1GuZhGA6GGcPxclrs"
+    },
+    "guardian": {
+      "url": "https://content.guardianapis.com",
+      "auth": "2af50abc-39e4-4a3b-b141-3d95d53af099"
+    }
+  }
+}
